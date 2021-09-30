@@ -8,4 +8,4 @@
 
 ## Running the project 🚀
 
-<p>To run the project it is necessary to leave the filename as `catpy` and add its path to your global $PATH</p>
+<p>To run the project it is necessary to leave the filename as catpy and add its path to your global $PATH</p>
